@@ -1,7 +1,7 @@
 # taskboard
 A simple dashboard which uses taskwarrior as backend.
 
-(TODO: put screenshot here)
+![](doc/screenshot.png?raw=true)
 
 This is a simple terminal based dashboard I made to learn go, which uses termui library to visualize the tasks created with taskwarrior. Once my taskwarrior database started having a lot of tasks with different projects, it became difficult to get a good overview of everyting, without employing filters.
 
