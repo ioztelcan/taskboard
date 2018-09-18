@@ -15,3 +15,6 @@ It currently shows 3 different project side by side, with the simple task IDs. Y
 
 See LICENSE file
 
+## References
+
+termui : https://github.com/gizak/termui
