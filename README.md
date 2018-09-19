@@ -9,7 +9,7 @@ This is a simple terminal based dashboard I made to learn go, which uses termui 
 
 Right now there are no ways to configure it elegantly. Just replace the filepaths and project names in the source code and give it a go (ha!) with `go run taskboard.go`
 
-It currently shows 3 different project side by side, with the simple task IDs. You can keep using regular task warrior commands to create/delete tasks and it should update.
+It currently shows 3 different projects side by side, with the task IDs. You can keep using regular task warrior commands to create/delete tasks and it should update.
 
 ## License
 
